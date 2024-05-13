@@ -1,0 +1,23 @@
+
+h1{
+	color: blue;
+	font size: 100px;
+	text-align: center;
+	padding: 20px;
+}
+p{
+	color: black;
+	font : 100px;
+	text-align: center;
+	padding: 20px;
+}
+div{
+	color: blue;
+	text-align: center;
+	padding: 20px;
+}
+body{
+	background-color: skyblue;
+	font-size: 50px;
+	background:linear-gradient(white,grey);
+}

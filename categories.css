@@ -1,0 +1,45 @@
+
+.image-container{
+	
+	column-count: 2;
+	column-gap: 20px;
+    padding: 70px;
+}
+body{
+	background:linear-gradient(white,grey);
+	font-weight: bold;
+	font-size: 30px;
+	padding: 70px;
+	
+}
+img{
+	width: 150px;
+	height:150px;
+	border-radius:10%
+}
+.field{
+	
+	column-count: 3;
+	column-gap: 20px;
+
+}
+button{
+	margin-left: 40px;
+	font-size: 30px;
+	font font-weight: 30px;
+	border-radius: 20px;
+	column-count: 3;
+	column-gap: 20px;
+	display: flex;
+	flex direction: column;
+	padding: 10px;
+}
+input{
+	margin-left: 40px;
+	font-size: 30px;
+	font font-weight: 30px;
+	border-radius: 20px;
+	align-items: center;
+    padding: 10px;
+    
+}
