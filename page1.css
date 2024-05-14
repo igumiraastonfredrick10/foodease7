@@ -15,9 +15,13 @@ div{
 	color: blue;
 	text-align: center;
 	padding: 20px;
+	box-sizing: border-box;
 }
 body{
 	background-color: skyblue;
 	font-size: 50px;
 	background:linear-gradient(white,grey);
+}
+*{
+	box-sizing: border-box;
 }
